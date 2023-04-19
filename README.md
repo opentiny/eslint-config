@@ -53,7 +53,7 @@ npm install --save-dev eslint babel-eslint @opentiny/eslint-config
  *   eslint-plugin-rxjs  3.3.5
 ```
 
-### 新建文件
+### 标准规则
 
 在你的项目根目录下创建 `.eslintrc.js`，并将以下内容复制到文件中：
 
