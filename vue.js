@@ -9,7 +9,6 @@
  *   @typescript-eslint/parser ^4.11.0
  *   @typescript-eslint/eslint-plugin ^4.11.0
  *
- * 此文件是由脚本 scripts/build.ts 自动生成
  *
  * @reason 为什么要开启（关闭）此规则
  */
