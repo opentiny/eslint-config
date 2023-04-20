@@ -1,0 +1,27 @@
+{
+  "name": "@opentiny/eslint-config",
+  "version": "1.0.1",
+  "description": "Opentiny ESlint规范插件",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "规范"
+  ],
+  "author": {
+    "name": "h-ivy",
+    "email": "opentiny@sina.com"
+  },
+  "maintainers": [
+    {
+      "name": "h-ivy",
+      "email": "opentiny@sina.com"
+    }
+  ],
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
